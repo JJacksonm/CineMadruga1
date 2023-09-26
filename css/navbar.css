@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Alkatra-VariableFont_wght";
+    src: url("../Fontes/Alkatra-VariableFont_wght.ttf");
+}
+
+.navs{
+    background-color: #242B30;
+}
+.nav_text{
+    color: antiquewhite;
+    font-family: "Alkatra-VariableFont_wght";
+    font-size: 1.25em;
+}
+.Navbar_Text{
+    font-size: 2em;
+}
+.btn_nav{
+    background-color: #D1985F;
+    color:antiquewhite;
+    
+}
+.btn_nav:hover{
+    color: #D1985F !important;
+    background-color: aliceblue !important;
+}
