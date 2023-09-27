@@ -21,7 +21,8 @@ form {
     margin: 8px 0;
     border: none;
     cursor: pointer;
-    width: 100%;
+    width: 30%;
+    
   }
   
   /* Add a hover effect for buttons */
@@ -61,4 +62,7 @@ form {
   }
   .login{
     text-align: right;
+  }
+  #cad{
+    margin-left: 30%;
   }

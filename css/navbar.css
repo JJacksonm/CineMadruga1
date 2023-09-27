@@ -23,3 +23,11 @@
     color: #D1985F !important;
     background-color: aliceblue !important;
 }
+.btn-primary{
+    background-color: #D1985F !important;
+    color:antiquewhite;
+}
+.btn-primary:hover{
+    color: #D1985F !important;
+    background-color: aliceblue !important;
+}

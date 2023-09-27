@@ -1,0 +1,29 @@
+<div class="col">
+              <a href="#" class="fb btn">
+                <i class="fa fa-facebook fa-fw"></i> Login com Facebook
+              </a>
+              <a href="#" class="google btn">
+                <i class="fa fa-google fa-fw"></i> Login com Google
+              </a>
+              <a href="#" class="twitter btn">
+                <i class="fa fa-twitter fa-fw"></i> Login com Twitter
+              </a>
+
+
+
+
+<div class="bottom-container">
+
+
+
+
+
+.bottom-container {
+  text-align: center;
+  background-color: #666;
+  border-radius: 10px 10px 10px 10px;
+  width: 50%;
+  margin-left: 24%;
+margin-top: 1%;
+
+} 	
