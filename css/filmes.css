@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Alkatra-VariableFont_wght";
+    src: url("../Fontes/Alkatra-VariableFont_wght.ttf");
+  }
+.img_demonstaditva{
+    height: 360px;
+}
+p{
+    font-family: "Alkatra-VariableFont_wght";
+    color: aliceblue;
+}
+.conteudo{
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.classificação{
+    color: antiquewhite;
+    font-family: "Alkatra-VariableFont_wght";
+}
+.sinopse{
+    color: antiquewhite;
+    font-family: "Alkatra-VariableFont_wght";
+    text-align: left;
+}

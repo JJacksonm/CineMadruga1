@@ -1,17 +1,24 @@
+@font-face {
+  font-family: "Alkatra-VariableFont_wght";
+  src: url("../Fontes/Alkatra-VariableFont_wght.ttf");
+}
+
 .conteudo h1{
     margin-top: 10px;
     color: antiquewhite;
 }
 .conteudo{
     background-color: rgb(65, 65, 65);
+    padding-top: 10px;
 }
+
 .carousel-inner > .carousel-item > img {
     width: 80%;
     height: 500px;
     margin: auto; 
   }
   .filmes{
-    margin-top: 10px;
+    padding-bottom: 20px;
   }
   .filme{
     padding-right: 10px;
@@ -19,6 +26,7 @@
     padding-top: 10px;
     background-color: black;
     text-align: center;
+    padding-bottom: 10px;
   }
   .filme_2{
     
@@ -39,8 +47,23 @@
   .btn_ver{
     background-color: #D1985F;
     color:antiquewhite;
+    width: 6em;
   }
   .btn_ver:hover{
     background-color: antiquewhite;
     color: #D1985F;
+  }
+  .rodape{
+    background-color: #242B30;
+    width: 100%;
+    color: antiquewhite;
+    font-family: "Alkatra-VariableFont_wght";
+    font-size: 1.5em;
+  }
+  a{
+    text-decoration: none;
+    color: antiquewhite;
+  }
+  a:hover{
+    text-decoration: none;
   }
